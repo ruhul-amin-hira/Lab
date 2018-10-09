@@ -7,10 +7,10 @@ public class Main {
 
         String[] keyword = {"int", "if", "byte", "long", "String", "double", "else", "switch", "float"};
         String[] identifiers = {"a", "b", "c", "d", "e"};
-        String[] operand = {"-", " +", "/","=", "*"};
+        String[] operand = {"-", "+", "/","=", "*"};
         String[] operator = {"<", ">", "&&", "||", "!=", "=="};
         String[] value = {"1", "2", "3", "4", "5", "6", "7", "8"};
-        String[] others = {"{", "}", ";", ")", "(", ","};
+        String[] others = {"{","}", ";", ")", "(", ","};
 
         String text = "";
 
